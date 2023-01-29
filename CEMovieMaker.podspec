@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
 	  s.homepage     = 'https://github.com/cameronehrlich/CEMovieMaker'
 	  s.platform     = :ios, '8.0'
 	  s.source = {
-	    :git => 'https://github.com/cameronehrlich/CEMovieMaker.git',
+	    :git => 'https://github.com/Workshed/CEMovieMaker.git',
 	    :branch => 'master',
 	    :tag => s.version.to_s
 	  }
